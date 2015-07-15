@@ -75,7 +75,7 @@
     <string name="gapps_url">https://github.com/cgapps/vendor_google/blob/builds/arm64/gapps-5.1-2015-06-02-15-20.zip?raw=true</string>
 
     <!-- Update checker -->
-    <string name="xml_url">http://http://grinningferret.github.io/ota.xml</string>
+    <string name="xml_url">http://grinningferret.github.io/ota.xml</string>
     <string name="notification_message">ROM update available</string>
 
     <!-- About -->
