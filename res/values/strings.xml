@@ -20,7 +20,7 @@
     <string name="app_name">LG L90 OTA Center</string>
     <string name="menu_settings">Settings</string>
     <string name="device_title">Device</string>
-    <string name="device_name_title">Name:</string>
+    <string name="device_name_title">Device:</string>
     <string name="codename_title">Codename:</string>
     <string name="version_title">Version:</string>
     <string name="file_name_title">File:</string>
@@ -31,7 +31,7 @@
     <string name="up_to_date_title">Your system is up to date</string>
     <string name="no_data_title">No data connection available</string>
     <string name="error_reading_title">Cannot read properties</string>
-    <string name="update_file_title">Status</string>
+    <string name="update_file_title">Status:</string>
     <string name="reboot">All done! Reboot your device now.</string>
     <string name="reboot_ok">Reboot now</string>
     <string name="reboot_cancel">Don\'t reboot</string>
@@ -76,7 +76,7 @@
 
     <!-- Update checker -->
     <string name="xml_url">http://grinningferret.github.io/ota.xml</string>
-    <string name="notification_message">ROM update available</string>
+    <string name="notification_message">ROM update available!</string>
 
     <!-- About -->
     <string name="googleplus_title">Google+</string>
