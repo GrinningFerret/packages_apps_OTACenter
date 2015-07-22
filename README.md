@@ -1,3 +1,4 @@
 packages_apps_OTACenter
 ==========================
-Euphoria-OS OTA App
+Resurrection Remix OTA App,
+based on the EuphoriaOS updater
